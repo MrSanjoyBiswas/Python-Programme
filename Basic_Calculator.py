@@ -1,0 +1,11 @@
+num1 = input("Enter First Number: ")
+num2 = input("Enter Second Number: ")
+
+result = float(num1) + float(num2)
+print("Sum: " + str(result))
+result = float(num1) - float(num2)
+print("Minus: " + str(result))
+result = float(num1) * float(num2)
+print("Product: " + str(result))
+result = float(num1) / float(num2)
+print("Divition: " + str(result))
